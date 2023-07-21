@@ -1,1 +1,1 @@
-# biolink
+A Simple Biolink Template
